@@ -1,0 +1,6 @@
+Please navigate to the following link to download the Stanford Lexical Parser
+
+http://nlp.stanford.edu/software/lex-parser.shtml#Download
+(Download Stanford Parser version 3.6.0)
+
+Please get in touch with the team in case of any issues.
